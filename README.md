@@ -1,4 +1,4 @@
-# 🍽️ Smart Restaurant Website
+# 🍽️ DeTus Restaurant Website
 
 ## 📌 Project Purpose
 This is a multipage responsive website built as a **final assignment project** to demonstrate:
@@ -43,7 +43,7 @@ The theme chosen is a **restaurant website** that showcases:
 
 ## 📂 Project Structure
 
-/smart-restaurant
+/DeTus-restaurant
    |-- index.html
    |-- menu.html
    |-- gallery.html
