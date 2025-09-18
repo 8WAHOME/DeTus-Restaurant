@@ -6,7 +6,7 @@ This is a multipage responsive website built as a **final assignment project** t
 - CSS styling & responsiveness
 - JavaScript interactivity
 - Best practices in file organization
-- Live deployment using GitHub Pages / Netlify
+- Live deployment using GitHub Pages 
 
 The theme chosen is a **restaurant website** that showcases:
 - Home page with hero section and call-to-action
